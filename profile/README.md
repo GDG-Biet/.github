@@ -20,8 +20,8 @@ If you're interested in joining or contributing to our projects, feel free to co
 
 ## Current Members
 - [aanshu-kumar](https://github.com/aanshu-kumar) (Owner)
-- [Amaarr16](https://github.com/Amaarr16)
-- [humaira0316](https://github.com/humaira0316)
+- [Amaarr16](https://github.com/Amaarr16) (Organizer)
+- [humaira0316](https://github.com/humaira0316) (Co-Organizer)
 - [upadhyayutkarsh2005](https://github.com/upadhyayutkarsh2005)
 - [Dumbledorithm](https://github.com/Dumbledorithm)
 - [AyushGoel0](https://github.com/AyushGoel0)
