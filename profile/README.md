@@ -22,6 +22,8 @@ If you're interested in joining or contributing to our projects, feel free to co
 - [aanshu-kumar](https://github.com/aanshu-kumar) (Owner)
 - [AyushGoel0](https://github.com/AyushGoel0)
 - [Dumbledorithm](https://github.com/Dumbledorithm)
+- [humaira0316](https://github.com/humaira0316)
+- [Amaarr16](https://github.com/Amaarr16)
 
 More members coming soon!
 
