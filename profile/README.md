@@ -27,5 +27,17 @@ If you're interested in joining or contributing to our projects, feel free to co
 
 More members coming soon!
 
+## Contribution Guidelines
+
+If you're interested in contributing to this project, please take a moment to review our [Contribution Guidelines](./CONTRIBUTING.md).
+
+## Pull Request Template
+
+Before submitting a pull request, please ensure you're following our [Pull Request Template](./PULL_REQUEST_TEMPLATE.md) to maintain consistency and quality.
+
+## Code of Conduct
+
+We are committed to fostering an inclusive and welcoming environment. Please make sure to read and follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 ## Contact
 For more information, reach out to us through GitHub discussions or issues.
