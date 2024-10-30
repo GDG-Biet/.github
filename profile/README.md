@@ -20,7 +20,7 @@ If you're interested in joining or contributing to our projects, feel free to co
 
 ## Current Members
 - **Aanshu Kumar**: [aanshu-kumar](https://github.com/aanshu-kumar) (Owner)
-- **Amar Diip Rao**: [Amaarr16](https://github.com/Amaarr16) (Organizer)
+- **Amar Deep Rao**: [Amaarr16](https://github.com/Amaarr16) (Organizer)
 - **Humaira Hashmi**: [humaira0316](https://github.com/humaira0316) (Co-Organizer)
 - **Mohd Kaif**: [Kaif9999](https://github.com/Kaif9999)
 - **Ayush Goel**: [AyushGoel0](https://github.com/AyushGoel0)
