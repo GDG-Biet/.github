@@ -26,6 +26,7 @@ If you're interested in joining or contributing to our projects, feel free to co
 - **Ayush Goel**: [AyushGoel0](https://github.com/AyushGoel0)
 - **Utkarsh Upadhyay**: [upadhyayutkarsh2005](https://github.com/upadhyayutkarsh2005)
 - **Shardendu**: [Dumbledorithm](https://github.com/Dumbledorithm)
+- **Nagesh**: [Nagesh-tri](https://github.com/Nagesh-tri)
 
 More members coming soon!
 
