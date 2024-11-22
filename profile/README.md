@@ -19,6 +19,7 @@ GDG-Biet is a community-driven initiative aimed at fostering collaboration, lear
 If you're interested in joining or contributing to our projects, feel free to contact any of the current members.
 
 ## Current Members
+- **BIET-GDSC**: [BIET-GDSC](https://github.com/BIET-GDSC)
 - **Aanshu Kumar**: [aanshu-kumar](https://github.com/aanshu-kumar) (Owner)
 - **Amar Deep Rao**: [Amaarr16](https://github.com/Amaarr16) (Organizer)
 - **Humaira Hashmi**: [humaira0316](https://github.com/humaira0316) (Co-Organizer)
